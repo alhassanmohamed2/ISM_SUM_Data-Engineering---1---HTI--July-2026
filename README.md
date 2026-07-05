@@ -5,6 +5,11 @@
 * [DBeaver Download](https://dbeaver.io/download/)
 * [MySQL Installer Download](https://dev.mysql.com/downloads/installer/)
 
+* [VS Code](https://code.visualstudio.com/)
+
+* [MySql VS exten](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql)
+
+* [Test Database](https://dev.mysql.com/doc/employee/en/employees-installation.html)
 
 The process of designing a database is not and should
 not be hard to understand. As long as the process is
